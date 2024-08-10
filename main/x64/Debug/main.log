@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\Basics\OOP\OOP Projects\5- ASKfm System\main\main.cpp(10,14): warning C4091: 'static ': ignored on left of 'Helper' when no variable is declared
+D:\Basics\OOP\OOP Projects\5- ASKfm System\main\main.cpp(455,21): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Basics\OOP\OOP Projects\5- ASKfm System\main\main.cpp(462,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Basics\OOP\OOP Projects\5- ASKfm System\main\main.cpp(795,1): warning C4715: 'User::get_question': not all control paths return a value
+D:\Basics\OOP\OOP Projects\5- ASKfm System\main\main.cpp(514,1): warning C4715: 'Users::get_user': not all control paths return a value
+D:\Basics\OOP\OOP Projects\5- ASKfm System\main\main.cpp(487,1): warning C4715: 'Users::get_current_user': not all control paths return a value
+  main.vcxproj -> D:\Basics\OOP\OOP Projects\5- ASKfm System\x64\Debug\main.exe
